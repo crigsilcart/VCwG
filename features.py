@@ -19,6 +19,6 @@ print('--- this is Scipy result:',h_bar)
 print('-------------------------------------------------------------------')
 
 print('- Now Lambda bar:')
-lambda_green = 440e-9
+lambda_green = 520e-9
 print('--- for green light Lambda is arround', lambda_green/1e-9,'nm →',lambda_green,'m')
 print('--- so, Lambda bar will be', lambda_green/(2*np.pi),'m')
