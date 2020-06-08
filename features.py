@@ -1,4 +1,5 @@
-# Feature 1 file
+# feature to be deployed to master by pull request
+
 import numpy as np
 import scipy.constants as sc
 
